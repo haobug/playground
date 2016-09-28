@@ -4,4 +4,4 @@ install:
   - gem install mdl
   
 script:
-  - mdl "*.md"
+  - mdl *.md
